@@ -32,7 +32,9 @@ The Amazon dataset contains the following attributes:
 
 ### **Conclusion and Recommendations**
 
+-----------------------------
 **Conclusions:**
+-----------------------------
 
 ***Baseline Model:***
 
